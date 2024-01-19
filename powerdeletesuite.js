@@ -2,26 +2,7 @@ var pd = {
   version: "1.4.9",
   bookmarkver: "1.4",
   editStrings: [
-    "I love ice cream.",
-    "I hate beer.",
-    "My favorite color is blue.",
-    "I enjoy reading books.",
-    "I like to go hiking.",
-    "My favorite movie is Inception.",
-    "I enjoy playing video games.",
-    "I like to travel.",
-    "I'm learning to play the guitar.",
-    "I enjoy cooking.",
-    "I love listening to music.",
-    "I enjoy watching the sunset.",
-    "I like to explore new places.",
-    "I find joy in reading a good book.",
-    "I appreciate a good cup of coffee.",
-    "I enjoy spending time with my friends.",
-    "I like learning new things.",
-    "I find peace in long walks.",
-    "I enjoy the sound of rain.",
-    "I love the smell of fresh bread.",
+    "I love the smell of fresh bread."
   ],
   init: function () {
     pd.checks.versions();
